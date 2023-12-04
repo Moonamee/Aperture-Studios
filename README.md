@@ -1,1 +1,1 @@
-# Aperture-Studios-Photographer-Videomaker Studio
+# Aperture Studios: Photographer Videomaker Studio
