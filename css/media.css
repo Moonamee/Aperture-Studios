@@ -118,7 +118,8 @@
     /* main */
     .main {
         margin-top: 0;
-        width: 100vw;
+        width: 98vw;
+        overflow: hidden;
     }
     .main-container__bg {
         background-position: top;
