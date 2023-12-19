@@ -1,9 +1,6 @@
 <h1 align="center">Aperture Studios: <a href="[https://daniilshat.ru/](https://moonamee.github.io/Aperture-Studios/)" target="_blank"> Photographer Videomaker Studio</a>
 
-
 https://moonamee.github.io/Aperture-Studios/
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-![device_cover](https://github.com/Moonamee/Aperture-Studios/assets/116831065/00356952-23d2-46c9-bab2-059166fc7910)
 
 # Desktop / Tablet / Mobile
 
