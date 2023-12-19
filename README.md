@@ -1,4 +1,4 @@
-<h1 align="center">Aperture Studios: <a href="[https://daniilshat.ru/](https://moonamee.github.io/Aperture-Studios/)" target="_blank"> Photographer Videomaker Studio</a>
+<h1 align="center">Aperture Studios: <a href="https://moonamee.github.io/Aperture-Studios" target="_blank"> Photographer Videomaker Studio</a>
 
 https://moonamee.github.io/Aperture-Studios/
 
